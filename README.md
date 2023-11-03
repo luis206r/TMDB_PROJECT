@@ -42,8 +42,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Acerca del proyecto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Este proyecto consiste en crear una aplicación web en donde pueda gestionar y buscar información de películas y series, asi como también registrar usuarios, entre otras funcionalidades. Para eso se hará uso de la API de TMDB, la cual contiene un gran banco de información sobre películas, series, y todo lo relacionado a ello. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
